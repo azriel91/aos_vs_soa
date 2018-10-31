@@ -1,0 +1,9 @@
+[package]
+name = "aos_vs_soa"
+version = "0.1.0"
+authors = ["Azriel Hoh <azriel91@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4"
+rand = "0.5"
