@@ -73,7 +73,7 @@ fn random_contact_details() -> ContactDetails {
     ContactDetails {
         address,
         phone_number,
-        data: Vec::with_capacity(150_000),
+        data: Vec::with_capacity(15_000),
     }
 }
 
